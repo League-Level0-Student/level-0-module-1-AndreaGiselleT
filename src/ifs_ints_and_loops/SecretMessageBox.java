@@ -29,4 +29,10 @@ public class SecretMessageBox {
 
 	// 5. If the password does not match, pop-up "INTRUDER!!"
 
+	public static void main(String[] args) {
+	String pasword= "password";
+	JOptionPane.showInputDialog("what is your secret message?");
+	
+	}
+	
 }
